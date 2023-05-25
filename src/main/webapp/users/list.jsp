@@ -373,6 +373,7 @@
             <!-- End of Topbar -->
 
             <%@ include file="/header.jsp" %>
+            <%@ include file="userList.jsp" %>
         </div>
         <!-- End of Main Content -->
 
