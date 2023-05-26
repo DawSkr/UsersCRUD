@@ -1,12 +1,9 @@
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>Title</title>
 </head>
 <body>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ include file="/header.jsp" %>
 <div class="container-fluid">
 
   <!-- Page Heading -->
@@ -46,8 +43,5 @@
   </div>
 </div>
 <!-- /.container-fluid -->
-<%@ include file="/footer.jsp" %>
-
-
 </body>
 </html>
